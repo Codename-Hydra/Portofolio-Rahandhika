@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iot-embedded-portfolio/static/css/main.483da8ca.css",
+    "main.js": "/iot-embedded-portfolio/static/js/main.1ac1a57e.js",
+    "index.html": "/iot-embedded-portfolio/index.html",
+    "main.483da8ca.css.map": "/iot-embedded-portfolio/static/css/main.483da8ca.css.map",
+    "main.1ac1a57e.js.map": "/iot-embedded-portfolio/static/js/main.1ac1a57e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.483da8ca.css",
+    "static/js/main.1ac1a57e.js"
+  ]
+}
